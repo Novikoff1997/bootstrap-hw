@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+}
+.logo {
+  background-color: #7ac8ff;
+  color: blue;
+}
+.top-nav {
+  background-color: #2885ff;
+}
+.social {
+  background-color: #6cb0ff;
+}
+.hero {
+  background-color: #93ffc3;
+  color: rgb(0, 111, 0);
+}
+.action {
+  background-color: #47b761;
+}
+.ad {
+  background-color: #296c39;
+}
+.left {
+  background-color: #f1fe77;
+  color: rgb(172, 161, 0);
+}
+.article {
+  background-color: #dcc600;
+}
+.right {
+  background-color: #ebd14e;
+}
+.footer {
+  background-color: blue;
+}
